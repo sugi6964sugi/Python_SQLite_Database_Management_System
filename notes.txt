@@ -1,0 +1,13 @@
+MySQL (RDBMS) Connector
+
+installation command - pip install mysql-connector-python
+Large Database - Websites
+Configuration needed - Ex. Username and Password
+Server Required 
+
+SQlite 
+
+installation command - pip install db-sqlite3
+Light weight Database - Mobile Applications
+Zero Configuration -  Not required Username and Password
+No Server Required 
